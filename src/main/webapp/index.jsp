@@ -10,7 +10,7 @@
     List<Student> students = dao.fetchAll();
 %>
 <!DOCTYPE html>
-<html>
+<html> 
 <head>
     <title>Student Management</title>
     <link rel="stylesheet" href="index.css">
